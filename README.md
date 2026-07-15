@@ -62,6 +62,13 @@ Data Engineer with **4 years at Samsung SDS** designing data architectures, larg
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 
+## 📜 Certifications
+
+- 🏅 **DP-700** — Microsoft Certified: Fabric Data Engineer Associate
+- 🏅 **DP-750** — Microsoft Certified: Azure Databricks Data Engineer Associate
+- 🏅 **Databricks Certified: Data Engineer Associate**
+- 🏅 **AI-103** — Microsoft Certified: Azure AI Apps and Agents Developer Associate
+- 🏅 **Apache Airflow 3 Fundamentals**
 ## 💼 Experience
 
 **Data Engineer — Samsung SDS** *(Feb 2022 – Jul 2025)*
@@ -82,13 +89,7 @@ Data Engineer with **4 years at Samsung SDS** designing data architectures, larg
 | [🌬️ Airflow Project 101](https://github.com/SauravNCI/Airflow-project101) | DAGs and orchestration patterns with Apache Airflow | Airflow, Python |
 | [⚡ Azure Databricks Files](https://github.com/SauravNCI/Azure-DataBricks-Files) | Databricks notebooks — PySpark, SparkSQL, Auto Loader patterns | Databricks, PySpark |
 
-## 📜 Certifications
 
-- 🏅 **DP-700** — Microsoft Certified: Fabric Data Engineer Associate
-- 🏅 **DP-750** — Microsoft Certified: Azure Databricks Data Engineer Associate
-- 🏅 **Databricks Certified: Data Engineer Associate**
-- 🏅 **AI-103** — Microsoft Certified: Azure AI Apps and Agents Developer Associate
-- 🏅 **Apache Airflow 3 Fundamentals**
 
 ## 📊 GitHub Stats
 
