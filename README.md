@@ -22,6 +22,14 @@ Data Engineer with **4 years at Samsung SDS** designing data architectures, larg
 - 🔭 Currently exploring **Agentic AI** — LangGraph, RAG, and MCP servers
 - 💬 Ask me about **Databricks, Spark, Azure Data Factory, Kafka, and Medallion Architecture**
 
+## 📜 Certifications
+
+- 🏅 **DP-700** — Microsoft Certified: Fabric Data Engineer Associate
+- 🏅 **DP-750** — Microsoft Certified: Azure Databricks Data Engineer Associate
+- 🏅 **Databricks Certified: Data Engineer Associate**
+- 🏅 **AI-103** — Microsoft Certified: Azure AI Apps and Agents Developer Associate
+- 🏅 **Apache Airflow 3 Fundamentals**
+
 ## 🛠️ Tech Stack
 
 **Big Data & Streaming**
@@ -62,13 +70,7 @@ Data Engineer with **4 years at Samsung SDS** designing data architectures, larg
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 
-## 📜 Certifications
 
-- 🏅 **DP-700** — Microsoft Certified: Fabric Data Engineer Associate
-- 🏅 **DP-750** — Microsoft Certified: Azure Databricks Data Engineer Associate
-- 🏅 **Databricks Certified: Data Engineer Associate**
-- 🏅 **AI-103** — Microsoft Certified: Azure AI Apps and Agents Developer Associate
-- 🏅 **Apache Airflow 3 Fundamentals**
 ## 💼 Experience
 
 **Data Engineer — Samsung SDS** *(Feb 2022 – Jul 2025)*
