@@ -24,9 +24,10 @@ Data Engineer with **4 years at Samsung SDS** designing data architectures, larg
 
 ## 📜 Certifications
 
+- 🏅 **Databricks Certified: Data Engineer Associate**
+- 🏅 **Databricks Certified Data Engineer Professional**
 - 🏅 **DP-700** — Microsoft Certified: Fabric Data Engineer Associate
 - 🏅 **DP-750** — Microsoft Certified: Azure Databricks Data Engineer Associate
-- 🏅 **Databricks Certified: Data Engineer Associate**
 - 🏅 **AI-103** — Microsoft Certified: Azure AI Apps and Agents Developer Associate
 - 🏅 **Apache Airflow 3 Fundamentals**
 
